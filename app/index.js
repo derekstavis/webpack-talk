@@ -1,3 +1,4 @@
+import styles from './components/styles.css'
 import Button from './components/button'
 import Header from './components/header'
 
