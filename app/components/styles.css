@@ -8,3 +8,9 @@ button {
   border-radius: 20px;
 }
 
+img {
+  width: 105px;
+  height: 105px;
+  float: left;
+  margin-right: 10px;
+}
