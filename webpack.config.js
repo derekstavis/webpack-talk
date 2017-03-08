@@ -5,6 +5,7 @@ const buildConfig = require('./build/config')
 
 module.exports = {
   entry: "./index.js",
+  cache: true,
   output: {
     path: path.join(__dirname, 'dist'),
     filename: '[hash].[name].js',
